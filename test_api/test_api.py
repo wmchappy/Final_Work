@@ -10,8 +10,8 @@ action = 'LexicalSynonym'
 # 云API的公共参数
 config = {
     'Region': 'sz',
-    'secretId': 'AKIDIPWTO7LgOwGNOGLQimgMo4CAwVs1xeGX',
-    'secretKey': 'DJcmofWAg6J6jOg5sbjeLo5FF2f4GDj1',
+    'secretId': 'A*X',
+    'secretKey': 'D*1',
     'method': 'POST',
     'SignatureMethod': 'HmacSHA1',
 }
